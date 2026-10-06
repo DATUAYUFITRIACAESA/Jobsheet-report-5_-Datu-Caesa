@@ -106,7 +106,7 @@ public class LogicalOperatorWifi06 {
 #### 2.2.2 Execution Results / Output Screenshot
 The following is the program output after execution:
 
-![Experiment 2 Output](image/Screenshot-Percobaan-2.png)
+![Experiment 2 Output](hasilProgram2.png)
 
 #### 2.2.3 Answers to Questions / Reflection Questions
 * **Question 1:** Explain the function of the `||`, `&&`, and `!` operators in the condition above.

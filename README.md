@@ -163,7 +163,7 @@ public class NestedLabAccess06 {
 #### 2.3.2 Execution Results / Output Screenshot
 The following is the program output after execution:
 
-![Experiment 3 Output](image/Screenshot-Percobaan-3.png)
+![Experiment 3 Output](hasilProgram3.png)
 
 #### 2.3.3 Answers to Questions / Reflection Questions
 * **Question 1:** Why is the check `hasLecturerPermit || isLabAssistant` placed inside the first IF?
@@ -231,6 +231,9 @@ public class Task2AssistantSelection06 {
     }
 }
 ```
+The following is the program output after execution:
+
+![Experiment 4 Output](hasilProgram4.png)
 
 ---
 

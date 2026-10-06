@@ -43,6 +43,7 @@ public class NestedThesisExam06 {
 Here's an example of what the output looks like after the program runs:
 
 Example Image of Experiment 1 Output
+image/Screenshot 2026-10-06 135725.png
 
 2.1.3 Answers to Questions / Reflection Questions
 Question 1: What happens if the student answers "No" to the penalty-clearance question? Why?

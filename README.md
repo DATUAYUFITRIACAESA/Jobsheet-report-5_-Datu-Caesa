@@ -41,7 +41,7 @@ public class NestedThesisExam06 {
 }
 2.1.2 Running Results / Screenshot Output
 Here's an example of what the output looks like after the program runs:
-(/image/Screenshot 2026-10-06 135725.png)
+(/Screenshot 2026-10-06 135725.png)
 
 Example Image of Experiment 1 Output
 image/Screenshot 2026-10-06 135725.png
